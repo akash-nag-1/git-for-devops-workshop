@@ -1,0 +1,31 @@
+234  python testing.py
+  235  python3 testing.py\n
+  236  python3 testing.py
+  237  python testing.py\n
+  238  python testing.py
+  239  python testing.py\n
+  240  python3 testing.py\n
+  241  clear
+  242  ls
+  243  ls -l
+  244  git init
+  245  git status
+  246  git add testing.py
+    git status
+    git commit -m "adding new file"
+    git status
+    git status
+    git add testing.py
+    git status
+    git commit -m "adding new file"
+    git status
+    history
+    git status
+    git add git_commands.txt
+    git status
+    git commit -m "added"
+    git status
+    git remote add origin https://github.com/akash-nag-1/git-for-devops-workshop.git
+    git remote -v
+    git remote -v
+    git push origin master
