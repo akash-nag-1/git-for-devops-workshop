@@ -1,0 +1,1 @@
+print("hello friends how are you,i hope all doing good")
