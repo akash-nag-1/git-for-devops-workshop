@@ -1,6 +1,7 @@
 def my_function():
     a = 10
-    return a
+    password="akash@123"
+    return a+password
 
 
-print(my_function())  # ✅ 2 blank lines after function
+print(my_function())
