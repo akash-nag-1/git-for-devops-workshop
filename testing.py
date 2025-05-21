@@ -1,7 +1,9 @@
-def hello():
-    """
-    this is demo
-    """
-    return "hello friends how are you,i hope all doing good"
+class Person:
+    def __init__(self, name):
+        self.name = name
 
-hello()
+    def say_hello(self):
+        return f"Hi, I’m {self.name}"
+
+p = Person("Akash")
+print(p.say_hello())
